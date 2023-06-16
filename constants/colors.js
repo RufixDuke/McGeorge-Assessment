@@ -1,0 +1,18 @@
+export const Colors = {
+  primary: "#18840D",
+  secondary: "#FF9200",
+  shadesGreen2: "#6A7968",
+  bodyBlack: "#020D01",
+  warning: "#FF1D15",
+  info: "rgba(255, 29, 21, 0.05)",
+  marker: "#FFD296",
+  shadesGreen: "#E2F6E0",
+  shadeWhite: "#F5F5F5",
+  borderWhite: "#F5F6F7",
+  shadeGray2: "#DFE2E6",
+  white: "#FFFFFF",
+  borderBg: "#F5F6F7",
+  borderBg2: "#E9F8E7",
+  shadeGreen3: "#18840D",
+  borderLine: "#EBEDF0",
+};
